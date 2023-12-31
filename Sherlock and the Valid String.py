@@ -16,7 +16,7 @@ def isValid(s):
             count_dict[value] += 1
         else:
             count_dict[value] = 1
-        
+
         # also update max and min count
         if value < min_count:
             min_count = value
