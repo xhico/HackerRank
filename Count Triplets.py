@@ -14,7 +14,6 @@ def countTriplets(arr, r):
 
         m1[i] += 1
 
-    
     return triplets
 
 
