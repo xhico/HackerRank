@@ -1,6 +1,6 @@
-from itertools import islice
-from collections import deque
 from bisect import insort, bisect_left
+from collections import deque
+from itertools import islice
 
 
 def activityNotifications(seq, M):

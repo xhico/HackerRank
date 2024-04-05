@@ -1,5 +1,5 @@
-from functools import cmp_to_key
 import json
+from functools import cmp_to_key
 
 
 class Player:
